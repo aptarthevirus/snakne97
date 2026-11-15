@@ -26,5 +26,6 @@ https://haven.hackclub.com/kanpur
 
 ### pygame 
 * External library for writing video games (attempted to be imported inside the try block).
+* I took help from AI while making it web playable
 # To run and play the game js clone the the repo. hehe!
 <img width="1891" height="916" alt="{62D09BEC-AC9A-491B-9762-83D88AB46675}" src="https://github.com/user-attachments/assets/3032ef2d-d20a-4636-ae36-7077eb553ff9" />
